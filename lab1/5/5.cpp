@@ -27,13 +27,6 @@ const int parts = (n + k - 1) / k;
 int parts_numbers[parts];
 
 
-void generate_text(char* text) {
-	for (int i = 0; i < n; ++i) {
-		text[i] = 'a' + (rand() % 26);
-	}
-	text[n] = '\0';
-}
-
 DWORD WINAPI encode_part(LPVOID param) {
 	// Defining block boundaries
 	int start = *(int*)param * k;
