@@ -53,8 +53,6 @@ DWORD WINAPI encode_part(LPVOID param) {
 
 
 int _tmain(int argc, _TCHAR* argv[]) {
-	std::srand((unsigned)time(NULL));
-
 	memcpy(buffer, source, 14);
 	std::cout << "Source:\n" << buffer << '\n';
 
