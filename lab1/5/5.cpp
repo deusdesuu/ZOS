@@ -55,7 +55,8 @@ DWORD WINAPI encode_part(LPVOID param) {
 int _tmain(int argc, _TCHAR* argv[]) {
 	memcpy(buffer, source, 14);
 	std::cout << "Source:\n" << buffer << '\n';
-
+	std::cout << "Key: " << key << '\n' << '\n';
+	
 	HANDLE hThreadEncode[parts];
 	DWORD dwThreadEncode[parts];
 
