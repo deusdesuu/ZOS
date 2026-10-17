@@ -35,3 +35,7 @@ i-м исходным символом блока и i-м символом кл�
 <img width="822" height="575" alt="image" src="https://github.com/user-attachments/assets/3a1f715c-307c-475c-a2c5-8f65e4263a78" />
 
 - работа с потоками и вывод результата
+
+## Результат работы
+
+<img width="331" height="113" alt="image" src="https://github.com/user-attachments/assets/0f8be6d3-10b3-47a1-a877-05b8facc458b" />
