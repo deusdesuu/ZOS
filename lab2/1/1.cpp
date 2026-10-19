@@ -57,7 +57,7 @@ int _tmain(int argc, _TCHAR* argv[]) {
 		CloseHandle(hThreadSum[i]);
 	}
 
-	std::cout << "Сумма символов по их кодам: " << SUM << std::endl;
+	std::cout << "Сумма символов по их кодам по модулю 256: " << SUM % 256 << std::endl;
 
 	return 0;
 }
