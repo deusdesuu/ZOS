@@ -34,3 +34,11 @@
 ## Инициализация потоков и вывод результата
 
 <img width="458" height="625" alt="image" src="https://github.com/user-attachments/assets/4b0462cb-52ac-41d3-9d37-21517f1f561f" />
+
+# Результат работы
+
+<img width="1612" height="44" alt="image" src="https://github.com/user-attachments/assets/1eef64ab-cf1a-40b8-a411-8f288fb8a2c8" />
+
+<img width="544" height="216" alt="image" src="https://github.com/user-attachments/assets/5916a5e6-f558-4775-812b-094f53312828" />
+
+<img width="1611" height="49" alt="image" src="https://github.com/user-attachments/assets/b61bc485-7ca9-49c7-90cb-3fc845b378c6" />
