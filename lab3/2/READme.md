@@ -30,3 +30,7 @@
 - записываем в файл
 
 ## reader2, decoder, writer2 по аналогии
+
+## Инициализация потоков и вывод результата
+
+<img width="458" height="625" alt="image" src="https://github.com/user-attachments/assets/4b0462cb-52ac-41d3-9d37-21517f1f561f" />
