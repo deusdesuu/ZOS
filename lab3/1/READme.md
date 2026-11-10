@@ -35,3 +35,8 @@
 ## Инициализация и вывод результата
 
 <img width="416" height="308" alt="image" src="https://github.com/user-attachments/assets/66f5dd6b-faa5-437e-b349-2efb3ce1da49" />
+
+## Результат работы (16)
+
+<img width="264" height="52" alt="image" src="https://github.com/user-attachments/assets/56f312ce-3d4a-4354-8fc7-812be1ebb9bd" />
+
